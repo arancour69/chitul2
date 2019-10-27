@@ -1,21 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@chitul29 
-1
-00chitul29/chitul2
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
-chitul2/chitu2.m3u
-@chitul29 chitul29 Update chitu2.m3u
-1d1c787 1 hour ago
-957 lines (945 sloc)  39 KB
-  
-EXTM3U
+#EXTM3U
 #EXTINF:0,Acasa TV Gold
 http://89.45.201.132:2222/udp/224.0.0.3:112
 #EXTINF:0,Agro TV
