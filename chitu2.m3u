@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:0,Acasa TV Gold
 http://89.45.201.132:2222/udp/224.0.0.3:112
-#EXTINF:0,Agro TV
-http://89.45.201.132:2222/udp/224.0.0.3:908
-#EXTINF:0,Animal Planet HD
-http://89.45.201.132:2222/udp/224.0.0.3:509
 #EXTINF:0,Antena 1
 http://89.45.201.132:2222/udp/224.0.0.3:104
 #EXTINF:0,Antena 3
@@ -19,14 +15,10 @@ http://89.45.201.132:2222/udp/224.0.0.3:516
 http://89.45.201.132:2222/udp/224.0.0.3:515
 #EXTINF:0,B1 TV
 http://89.45.201.132:2222/udp/224.0.0.3:110
-#EXTINF:0,Bloomberg
-http://89.45.201.132:2222/udp/224.0.0.3:402
 #EXTINF:0,BOOMERANG
 http://89.45.201.132:2222/udp/224.0.0.3:154
 #EXTINF:0,COMEDY CENTRAL
 http://89.45.201.132:2222/udp/224.0.0.3:512
-#EXTINF:0,DaVinci Learning
-http://89.45.201.132:2222/udp/224.0.0.3:708
 #EXTINF:0,Digi 24 HD
 http://89.45.201.132:2222/udp/224.0.0.3:118
 #EXTINF:0,Disney Channel
@@ -35,36 +27,18 @@ http://89.45.201.132:2222/udp/224.0.0.3:150
 http://89.45.201.132:2222/udp/224.0.0.3:151
 #EXTINF:0,DISNEY JUNIOR
 http://89.45.201.132:2222/udp/224.0.0.3:607
+#EXTINF:0,Duck
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1458
 #EXTINF:0,DIVA
 http://89.45.201.132:2222/udp/224.0.0.3:610
-#EXTINF:0,Dolce Sport 5
-http://89.45.201.132:2222/udp/224.0.0.3:211
-#EXTINF:0,Dolce Sport 5 HD
-http://89.45.201.132:2222/udp/224.0.0.3:905
-#EXTINF:0,Dolce Sport 6
-http://89.45.201.132:2222/udp/224.0.0.3:212
 #EXTINF:0,Duck TV
 http://89.45.201.132:2222/udp/224.0.0.3:157
-#EXTINF:0,E HD
-http://89.45.201.132:2222/udp/224.0.0.3:511
-#EXTINF:0,Eurosport 1 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1207
-#EXTINF:0,Eurosport 2
-http://89.45.201.132:2222/udp/224.0.0.3:207
-#EXTINF:0,Eurosport 2 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1208
-#EXTINF:0,Faschion
-http://89.45.201.132:2222/udp/224.0.0.3:308
 #EXTINF:0,Favorit TV
 http://89.45.201.132:2222/udp/224.0.0.3:609
-#EXTINF:0,Nat Geo Wild
-http://89.45.201.132:2222/udp/224.0.0.3:138
 #EXTINF:0,Happy Channel
 http://89.45.201.132:2222/udp/224.0.0.3:508
 #EXTINF:0,ProX HD
 http://89.45.201.132:2222/udp/224.0.0.3:122
-#EXTINF:0,History HD
-http://89.45.201.132:2222/udp/224.0.0.3:710
 #EXTINF:0,Iasi TV Life
 http://89.45.201.132:2222/udp/224.0.0.3:909
 #EXTINF:0,KANAL D HD
@@ -79,12 +53,6 @@ http://89.45.201.132:2222/udp/224.0.0.3:621
 http://89.45.201.132:2222/udp/224.0.0.3:213
 #EXTINF:0,Nasul TV
 http://89.45.201.132:2222/udp/224.0.0.3:117
-#EXTINF:0,NatGeo Channel
-http://89.45.201.132:2222/udp/224.0.0.3:705
-#EXTINF:0,NatGeo Wild
-http://89.45.201.132:2222/udp/224.0.0.3:709
-#EXTINF:0,NatGeo Wild HD
-http://89.45.201.132:2222/udp/224.0.0.3:120
 #EXTINF:0,National 24 Plus
 http://89.45.201.132:2222/udp/224.0.0.3:115
 #EXTINF:0,National TV
@@ -104,23 +72,83 @@ http://89.45.201.132:2222/udp/224.0.0.3:107
 #EXTINF:0,Pro TV HD
 http://89.45.201.132:2222/udp/224.0.0.3:119
 #EXTINF:0,PRO X
+#EXTINF:0,Minimax
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1453
+#EXTINF:0,Megamax
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1454
+#EXTINF:0,Jim Jam
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1455
+#EXTINF:0,Happy
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1456
+#EXTINF:0,Disney Junior
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1459
+#EXTINF:0,Disney 
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1460
+#EXTINF:0,Digi 24
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1464
+#EXTINF:0,Comedy Est
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1465
+#EXTINF:0,Comedy Central
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1466
+#EXTINF:0,Cartoon Network
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1467
+#EXTINF:0,B1 TV
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1469
+#EXTINF:0,A 7
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1470
+#EXTINF:0,TVR 1
+http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14957
+#EXTINF:0,TVR 2
+http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14956
+#EXTINF:0,TVR 3
+http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14955
+#EXTINF:0,TVR 1
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14957
+#EXTINF:0,TVR 2
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14956
+#EXTINF:0,Antena 1
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14951
+#EXTINF:0,Antena 3
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/59138
+#EXTINF:0,Antena Stars
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14930
+#EXTINF:0,Pro TV
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14953
+#EXTINF:0,Boomerang
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14906
+#EXTINF:0,Etno
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14884
+#EXTINF:0,AXN Black
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14883
+#EXTINF:0,Cinemax
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14894
+#EXTINF:0,Cinemax 2
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14893
+#EXTINF:0,TVR HD
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14911
+#EXTINF:0,Disney Junior
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14891
+#EXTINF:0,HBO 2
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14896
+#EXTINF:0,HBO 3
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14895
+#EXTINF:0,HBO
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14897
+#EXTINF:0,TLC HD
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14897
+#EXTINF:0,Realitatea TV
+http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14917
+#EXTINF:0,Film Now
+http://client-proiptv.com:8080/28reBrbIja/zjviI7JTkw/20554
 http://89.45.201.132:2222/udp/224.0.0.3:202
 #EXTINF:0,Romania TV
 http://89.45.201.132:2222/udp/224.0.0.3:109
-#EXTINF:0,Speranta Tv
-http://89.45.201.132:2222/udp/224.0.0.3:133
 #EXTINF:0,TNT
 http://89.45.201.132:2222/udp/224.0.0.3:1113
-#EXTINF:0,Trinitas
-http://89.45.201.132:2222/udp/224.0.0.3:131
 #EXTINF:0,TV 1000
 http://89.45.201.132:2222/udp/224.0.0.3:513
 #EXTINF:0,VH1
 http://89.45.201.132:2222/udp/224.0.0.3:604
-#EXTINF:0,Viasat Explore
-http://89.45.201.132:2222/udp/224.0.0.3:711
-#EXTINF:0,Viasat Nature
-http://89.45.201.132:2222/udp/224.0.0.3:714
 #EXTINF:0,ZU TV
 http://89.45.201.132:2222/udp/224.0.0.3:606
 #EXTINF:-1,CBS Reality
@@ -131,8 +159,6 @@ http://5.255.90.252:5004/play/a059
 http://5.255.90.252:5004/play/a058
 #EXTINF:-1,Etno
 http://5.255.90.252:5004/play/a073
-#EXTINF:-1,Eurosport Int
-http://5.255.90.252:5004/play/a068
 #EXTINF:-1,HBO 3 RO
 http://5.255.90.252:5004/play/a06c
 #EXTINF:-1,HBO Romania
@@ -147,10 +173,6 @@ http://5.255.90.252:5004/play/a06a
 http://5.255.90.252:5004/play/a088
 #EXTINF:-1,Music Channel
 http://5.255.90.252:5004/play/a06u
-#EXTINF:-1,NG Wild RO
-http://5.255.90.252:5004/play/a075
-#EXTINF:-1,National Geographic RO
-http://5.255.90.252:5004/play/a06d
 #EXTINF:-1,National TV
 http://5.255.90.252:5004/play/a072
 #EXTINF:-1,Neptun TV
@@ -161,8 +183,6 @@ http://5.255.90.252:5004/play/a086
 http://5.255.90.252:5004/play/a081
 #EXTINF:-1,Prima
 http://5.255.90.252:5004/play/a062
-#EXTINF:-1,Viasat Explore
-http://5.255.90.252:5004/play/a063
 #EXTINF:-1,TV 1000
 http://5.255.90.252:5004/play/a05j
 #EXTINF:-1,TVR 1
@@ -173,8 +193,6 @@ http://5.255.90.252:5004/play/a06w
 http://5.255.90.252:5004/play/a084
 #EXTINF:-1,U tv
 http://5.255.90.252:5004/play/a067
-#EXTINF:-1,Viasat Explore
-http://5.255.90.252:5004/play/a082
 #EXTINF:0,PRO TV
 http://ch01.spr24.net/22381/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,ANTENA 1 HD
@@ -185,34 +203,6 @@ http://ch01.spr24.net/22390/mpegts?token=qEpFWQ3Hys7242
 http://ch01.spr24.net/22365/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,KANAL D
 http://ch01.spr24.net/22932/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 1
-http://ch01.spr24.net/22937/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 2 HD
-http://ch01.spr24.net/22382/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 3 HD
-http://ch01.spr24.net/22394/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 3
-http://ch01.spr24.net/22924/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 4 HD
-http://ch01.spr24.net/22967/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI SPORT 4
-http://ch01.spr24.net/22938/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,PRO-X HD
-http://ch01.spr24.net/22371/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,EUROSPORT 1 HD
-http://ch01.spr24.net/22375/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,EUROSPORT 1
-http://ch01.spr24.net/22328/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,EUROSPORT 2 HD
-http://ch01.spr24.net/22376/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,ANIMAL PLANET HD
-http://ch01.spr24.net/22370/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,ANIMAL PLANET
-http://ch01.spr24.net/22349/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI ANIMAL WORLD HD
-http://ch01.spr24.net/22960/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI ANIMAL WORLD
-http://ch01.spr24.net/22923/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,Film Now HD
 http://ch01.spr24.net/22385/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,Film Now
@@ -231,46 +221,6 @@ http://ch01.spr24.net/22368/mpegts?token=qEpFWQ3Hys7242
 http://ch01.spr24.net/22911/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,PROCINEMA
 http://ch01.spr24.net/22316/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI LIFE HD
-http://ch01.spr24.net/22961/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DIGI LIFE
-http://ch01.spr24.net/22920/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DISCOVERY
-http://ch01.spr24.net/22340/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DISCOVERY ID
-http://ch01.spr24.net/22326/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DISCOVERY SCIENCE
-http://ch01.spr24.net/22325/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DISCOVERY SHOWCASE HD
-http://ch01.spr24.net/22964/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,VIASAT EXPLORE
-http://ch01.spr24.net/22357/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,VIASAT NATURE
-http://ch01.spr24.net/22959/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,VIASAT HISTORY
-http://ch01.spr24.net/22356/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DTX
-http://ch01.spr24.net/22942/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,DOCU BOX
-http://ch01.spr24.net/22981/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,E! ENTERTAIMENT HD
-http://ch01.spr24.net/22391/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,E! ENTERTAIMENT
-http://ch01.spr24.net/22908/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,NAT GEO WILD HD
-http://ch01.spr24.net/22901/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,NAT GEO WILD
-http://ch01.spr24.net/22929/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://ch01.spr24.net/22373/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://ch01.spr24.net/22922/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,TRAVEL HD
-http://ch01.spr24.net/22397/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,TRAVEL
-http://ch01.spr24.net/22925/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:0,TRAVEL MIX
-http://ch01.spr24.net/22323/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,ROMANIA TV
 http://ch01.spr24.net/22331/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,REALITATEA TV
@@ -395,12 +345,112 @@ http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1419
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1420
 #EXTINF:0,Bollywood Classic
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1421
+#EXTINF:0,DIVA
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1441
+#EXTINF:0,TLC
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1442
+#EXTINF:0,Taraf
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1443
+#EXTINF:0,Romania TV
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1444
+#EXTINF:0,Nickelodeon
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1445
+#EXTINF:0,Nick JR
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1446
+#EXTINF:0,National TV
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1447
+#EXTINF:0,N24 Plus
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1448
+#EXTINF:0,Music Channel
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1449
+#EXTINF:0,MOOZ
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1450
+#EXTINF:0,Mooz Hits
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1451
+#EXTINF:0,Mooz Dance
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1452
+#EXTINF:0,Agro TV
+http://89.45.201.132:2222/udp/224.0.0.3:908
+#EXTINF:0,E HD
+http://89.45.201.132:2222/udp/224.0.0.3:511
+#EXTINF:0,Trinitas
+http://89.45.201.132:2222/udp/224.0.0.3:131
+#EXTINF:0,Speranta Tv
+http://89.45.201.132:2222/udp/224.0.0.3:133
+#EXTINF:0,Animal Planet HD
+http://89.45.201.132:2222/udp/224.0.0.3:509
+#EXTINF:0,Nat Geo Wild
+http://89.45.201.132:2222/udp/224.0.0.3:138
+#EXTINF:0,History HD
+http://89.45.201.132:2222/udp/224.0.0.3:710
+#EXTINF:0,Viasat Explore
+http://89.45.201.132:2222/udp/224.0.0.3:711
+#EXTINF:0,Viasat Nature
+http://89.45.201.132:2222/udp/224.0.0.3:714
+#EXTINF:-1,NG Wild RO
+http://5.255.90.252:5004/play/a075
+#EXTINF:-1,National Geographic RO
+http://5.255.90.252:5004/play/a06d
+#EXTINF:-1,Viasat Explore
+http://5.255.90.252:5004/play/a063
+#EXTINF:-1,Viasat Explore
+http://5.255.90.252:5004/play/a082
+#EXTINF:0,ANIMAL PLANET HD
+http://ch01.spr24.net/22370/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,ANIMAL PLANET
+http://ch01.spr24.net/22349/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI ANIMAL WORLD HD
+http://ch01.spr24.net/22960/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI ANIMAL WORLD
+http://ch01.spr24.net/22923/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI LIFE HD
+http://ch01.spr24.net/22961/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI LIFE
+http://ch01.spr24.net/22920/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DISCOVERY
+http://ch01.spr24.net/22340/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DISCOVERY ID
+http://ch01.spr24.net/22326/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DISCOVERY SCIENCE
+http://ch01.spr24.net/22325/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DISCOVERY SHOWCASE HD
+http://ch01.spr24.net/22964/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,VIASAT EXPLORE
+http://ch01.spr24.net/22357/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,VIASAT NATURE
+http://ch01.spr24.net/22959/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,VIASAT HISTORY
+http://ch01.spr24.net/22356/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DTX
+http://ch01.spr24.net/22942/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DOCU BOX
+http://ch01.spr24.net/22981/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,E! ENTERTAIMENT HD
+http://ch01.spr24.net/22391/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,E! ENTERTAIMENT
+http://ch01.spr24.net/22908/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,NAT GEO WILD HD
+http://ch01.spr24.net/22901/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,NAT GEO WILD
+http://ch01.spr24.net/22929/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://ch01.spr24.net/22373/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://ch01.spr24.net/22922/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,TRAVEL HD
+http://ch01.spr24.net/22397/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,TRAVEL
+http://ch01.spr24.net/22925/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,TRAVEL MIX
+http://ch01.spr24.net/22323/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,National Geografic
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1422
 #EXTINF:0,Nat Geo Wild
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1423
 #EXTINF:0,ID Investigation Discovery
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1424
+#EXTINF:0,Faschion
+http://89.45.201.132:2222/udp/224.0.0.3:308
 #EXTINF:0,History Channel
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1425
 #EXTINF:0,Discovery Science
@@ -433,64 +483,20 @@ http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1438
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1439
 #EXTINF:0,E!Entertainment
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1440
-#EXTINF:0,DIVA
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1441
-#EXTINF:0,TLC
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1442
-#EXTINF:0,Taraf
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1443
-#EXTINF:0,Romania TV
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1444
-#EXTINF:0,Nickelodeon
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1445
-#EXTINF:0,Nick JR
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1446
-#EXTINF:0,National TV
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1447
-#EXTINF:0,N24 Plus
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1448
-#EXTINF:0,Music Channel
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1449
-#EXTINF:0,MOOZ
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1450
-#EXTINF:0,Mooz Hits
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1451
-#EXTINF:0,Mooz Dance
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1452
-#EXTINF:0,Minimax
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1453
-#EXTINF:0,Megamax
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1454
-#EXTINF:0,Jim Jam
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1455
-#EXTINF:0,Happy
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1456
-#EXTINF:0,Extreme Sport
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1457
-#EXTINF:0,Duck
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1458
-#EXTINF:0,Disney Junior
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1459
-#EXTINF:0,Disney 
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1460
 #EXTINF:0,Digi World
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1461
 #EXTINF:0,Digi Life
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1462
 #EXTINF:0,Digi Animal World
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1463
-#EXTINF:0,Digi 24
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1464
-#EXTINF:0,Comedy Est
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1465
-#EXTINF:0,Comedy Central
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1466
-#EXTINF:0,Cartoon Network
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1467
-#EXTINF:0,B1 TV
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1469
-#EXTINF:0,A 7
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1470
+#EXTINF:0,DaVinci Learning
+http://89.45.201.132:2222/udp/224.0.0.3:708
+#EXTINF:0,NatGeo Channel
+http://89.45.201.132:2222/udp/224.0.0.3:705
+#EXTINF:0,NatGeo Wild
+http://89.45.201.132:2222/udp/224.0.0.3:709
+#EXTINF:0,NatGeo Wild HD
+http://89.45.201.132:2222/udp/224.0.0.3:120
 #EXTINF:0,Fight Box
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1471
 #EXTINF:0,Eurosport
@@ -515,50 +521,44 @@ http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1481
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1482
 #EXTINF:0,Telekom Sport 4
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1483
-#EXTINF:0,TVR 1
-http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14957
-#EXTINF:0,TVR 2
-http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14956
-#EXTINF:0,TVR 3
-http://qqtv.nl:8080/iHXrogw0v3/rMHTCfB8gE/14955
-#EXTINF:0,TVR 1
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14957
-#EXTINF:0,TVR 2
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14956
-#EXTINF:0,Antena 1
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14951
-#EXTINF:0,Antena 3
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/59138
-#EXTINF:0,Antena Stars
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14930
-#EXTINF:0,Pro TV
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14953
-#EXTINF:0,Boomerang
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14906
-#EXTINF:0,Etno
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14884
-#EXTINF:0,AXN Black
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14883
-#EXTINF:0,Cinemax
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14894
-#EXTINF:0,Cinemax 2
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14893
-#EXTINF:0,TVR HD
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14911
-#EXTINF:0,Disney Junior
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14891
-#EXTINF:0,HBO 2
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14896
-#EXTINF:0,HBO 3
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14895
-#EXTINF:0,HBO
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14897
-#EXTINF:0,TLC HD
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14897
-#EXTINF:0,Realitatea TV
-http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14917
-#EXTINF:0,Film Now
-http://client-proiptv.com:8080/28reBrbIja/zjviI7JTkw/20554
+#EXTINF:0,Dolce Sport 5
+http://89.45.201.132:2222/udp/224.0.0.3:211
+#EXTINF:0,Dolce Sport 5 HD
+http://89.45.201.132:2222/udp/224.0.0.3:905
+#EXTINF:0,Dolce Sport 6
+http://89.45.201.132:2222/udp/224.0.0.3:212
+#EXTINF:0,DIGI SPORT 1
+http://ch01.spr24.net/22937/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI SPORT 2 HD
+http://ch01.spr24.net/22382/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI SPORT 3 HD
+http://ch01.spr24.net/22394/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI SPORT 3
+http://ch01.spr24.net/22924/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI SPORT 4 HD
+http://ch01.spr24.net/22967/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,DIGI SPORT 4
+http://ch01.spr24.net/22938/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,PRO-X HD
+http://ch01.spr24.net/22371/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,EUROSPORT 1 HD
+http://ch01.spr24.net/22375/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,EUROSPORT 1
+http://ch01.spr24.net/22328/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,EUROSPORT 2 HD
+http://ch01.spr24.net/22376/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,Eurosport 1 HD
+http://89.45.201.132:2222/udp/224.0.0.3:1207
+#EXTINF:0,Eurosport 2
+http://89.45.201.132:2222/udp/224.0.0.3:207
+#EXTINF:0,Eurosport 2 HD
+http://89.45.201.132:2222/udp/224.0.0.3:1208
+#EXTINF:0,Extreme Sport
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1457
+#EXTINF:-1,Eurosport Int
+http://5.255.90.252:5004/play/a068
+
+
 
 
 
