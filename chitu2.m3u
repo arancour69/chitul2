@@ -29,10 +29,16 @@ http://89.45.201.132:2222/udp/224.0.0.3:151
 http://89.45.201.132:2222/udp/224.0.0.3:607
 #EXTINF:0,Duck
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1458
-#EXTINF:0,DIVA
-http://89.45.201.132:2222/udp/224.0.0.3:610
 #EXTINF:0,Duck TV
 http://89.45.201.132:2222/udp/224.0.0.3:157
+#EXTINF:0,Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:0,Disney Junior
+http://5.255.90.252:5004/play/a06z
+#EXTINF:0,Disney 
+http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1460
+#EXTINF:0,DIVA
+http://89.45.201.132:2222/udp/224.0.0.3:610
 #EXTINF:0,Favorit TV
 http://89.45.201.132:2222/udp/224.0.0.3:609
 #EXTINF:0,Happy Channel
@@ -80,10 +86,6 @@ http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1454
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1455
 #EXTINF:0,Happy
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1456
-#EXTINF:0,Disney Junior
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1459
-#EXTINF:0,Disney 
-http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1460
 #EXTINF:0,Digi 24
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1464
 #EXTINF:0,Comedy Est
