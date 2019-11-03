@@ -2,7 +2,8 @@
 #EXTINF:0,TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:0,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8#EXTINF:0,TVR 3
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0,TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 #EXTINF:0,TVR International
 http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
@@ -21,7 +22,8 @@ http://ch01.spr24.net/22384/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,TVR 3
 http://ch01.spr24.net/22302/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0,Kanal D
-http://ch01.spr24.net/22365/mpegts?token=qEpFWQ3Hys7242#EXTINF:0,Antena 1
+http://ch01.spr24.net/22365/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0,Antena 1
 http://xtream.aker-ip.tv:8080/VnlKeyS2XG/1OWBI4jYjl/1391
 #EXTINF:0,Antena 3
 http://ch01.spr24.net/22389/mpegts?token=qEpFWQ3Hys7242
@@ -219,5 +221,4 @@ http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14897
 http://qqtv.nl:8080/sKKo5mrls9/2BNikandIm/14917
 #EXTINF:0,Film Now
 http://client-proiptv.com:8080/28reBrbIja/zjviI7JTkw/20554
-#EXTINF:0,Film Now
-http://client-proiptv.com:8080/28reBrbIja/zjviI7JTkw/20554
+
