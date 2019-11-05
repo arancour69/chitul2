@@ -37,52 +37,6 @@ http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74116
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/777
 #EXTINF:-1,B1 TV
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/757
-#EXTINF:-1,Digi Sport 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/754
-#EXTINF:-1,DIGI Sport 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/753
-#EXTINF:-1,Digi Sport 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74071
-#EXTINF:-1,Digi Sport 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/763
-#EXTINF:-1,Digi Sport 2 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74070
-#EXTINF:-1,Digi Sport 3
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/762
-#EXTINF:-1,Digi Sport 3 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74069
-#EXTINF:-1,Digi Sport 4
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/761
-#EXTINF:-1,Digi Sport 4 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74068
-#EXTINF:-1,Sport.ro
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/804
-#EXTINF:-1,TeleKom Sport 1 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16351
-#EXTINF:-1,Telekom Sport 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74067
-#EXTINF:-1,TeleKom Sport 2 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16352
-#EXTINF:-1,Telekom Sport 2 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74066
-#EXTINF:-1,TeleKom Sport 3 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16353
-#EXTINF:-1,Telekom Sport 3 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74065
-#EXTINF:-1,TeleKom Sport 4 HD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/16356
-#EXTINF:-1,Telekom Sport 4 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74064
-#EXTINF:-1,PRO-X FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74109
-#EXTINF:-1,EuroSport 1
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/775
-#EXTINF:-1,Eurosport 1 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74073
-#EXTINF:-1,EuroSport 2
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/766
-#EXTINF:-1,Eurosport 2 FHD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74072
 #EXTINF:-1,PRO.2
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/793
 #EXTINF:-1,Pro 2 FHD
@@ -90,7 +44,111 @@ http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/74110
 #EXTINF:-1,PRO.2 FHD
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/9346
 #EXTINF:-1,PRO.GOLD
-http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/9347
+#EXTINF:-1,Digi Sport 1
+http://sesat.tk:8080/MikeBro/GerMaNN452/1873
+#EXTINF:-1,B1 Tv
+http://sesat.tk:8080/MikeBro/GerMaNN452/1874
+#EXTINF:-1,Digi Animal World
+http://sesat.tk:8080/MikeBro/GerMaNN452/1875
+#EXTINF:-1,Digi 24
+http://sesat.tk:8080/MikeBro/GerMaNN452/1876
+#EXTINF:-1,Antena 1
+http://sesat.tk:8080/MikeBro/GerMaNN452/1877
+#EXTINF:-1,Digi Life
+http://sesat.tk:8080/MikeBro/GerMaNN452/1878
+#EXTINF:-1,Etno Tv
+http://sesat.tk:8080/MikeBro/GerMaNN452/1879
+#EXTINF:-1,Look Plus
+http://sesat.tk:8080/MikeBro/GerMaNN452/1880
+#EXTINF:-1,Nickelodeon
+http://sesat.tk:8080/MikeBro/GerMaNN452/1881
+#EXTINF:-1,Realitatea Tv
+http://sesat.tk:8080/MikeBro/GerMaNN452/1882
+#EXTINF:-1,DIGI Sport 1
+http://sesat.tk:8080/MikeBro/GerMaNN452/1883
+#EXTINF:-1,HBO Romania
+http://sesat.tk:8080/MikeBro/GerMaNN452/1884
+#EXTINF:-1,MUSIC CHANNEL HU
+http://sesat.tk:8080/MikeBro/GerMaNN452/1885
+#EXTINF:-1,TVR 1
+http://sesat.tk:8080/MikeBro/GerMaNN452/1886
+#EXTINF:-1,TVR 2
+http://sesat.tk:8080/MikeBro/GerMaNN452/1887
+#EXTINF:-1,U TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1888
+#EXTINF:-1,Taraf Tv
+http://sesat.tk:8080/MikeBro/GerMaNN452/1889
+#EXTINF:-1,TNT
+http://sesat.tk:8080/MikeBro/GerMaNN452/1890
+#EXTINF:-1,TV5 MONDE
+http://sesat.tk:8080/MikeBro/GerMaNN452/1891
+#EXTINF:-1,PRO TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1892
+#EXTINF:-1,VIASAT  NATURE
+http://sesat.tk:8080/MikeBro/GerMaNN452/1893
+#EXTINF:-1,VIASAT  HISTORYhttp://sesat.tk:8080/MikeBro/GerMaNN452/1894
+#EXTINF:-1,TV1000
+http://sesat.tk:8080/MikeBro/GerMaNN452/1895
+#EXTINF:-1,SPORT  RO
+http://sesat.tk:8080/MikeBro/GerMaNN452/1896
+#EXTINF:-1,ROMANIA  TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1897
+#EXTINF:-1,PROCINEMA
+http://sesat.tk:8080/MikeBro/GerMaNN452/1898
+#EXTINF:-1,PRIMA  TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1899
+#EXTINF:-1,NATIONAL  TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1900
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://sesat.tk:8080/MikeBro/GerMaNN452/1901
+#EXTINF:-1,NATIONAL GEO WILD
+http://sesat.tk:8080/MikeBro/GerMaNN452/1902
+#EXTINF:-1,MUSIC CHANEL  ONE
+http://sesat.tk:8080/MikeBro/GerMaNN452/1903
+#EXTINF:-1,MINIMAX
+http://sesat.tk:8080/MikeBro/GerMaNN452/1904
+#EXTINF:-1,MEGAMAZ
+http://sesat.tk:8080/MikeBro/GerMaNN452/1905
+#EXTINF:-1,LOOK  TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1906
+#EXTINF:-1,KISS TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1907
+#EXTINF:-1,KANAL  D
+http://sesat.tk:8080/MikeBro/GerMaNN452/1908
+#EXTINF:-1,HISTORY  CHANNELH
+http://sesat.tk:8080/MikeBro/GerMaNN452/1909
+#EXTINF:-1,HBO  ROMANIA
+http://sesat.tk:8080/MikeBro/GerMaNN452/1910
+#EXTINF:-1,HBO 3
+http://sesat.tk:8080/MikeBro/GerMaNN452/1911
+#EXTINF:-1,HBO 2
+http://sesat.tk:8080/MikeBro/GerMaNN452/1912
+#EXTINF:-1,HAPPY  CHANNEL
+http://sesat.tk:8080/MikeBro/GerMaNN452/1913
+#EXTINF:-1,FISHING &  HUNTING
+http://sesat.tk:8080/MikeBro/GerMaNN452/1914
+#EXTINF:-1,FAVORTI  TV
+http://sesat.tk:8080/MikeBro/GerMaNN452/1915
+#EXTINF:-1,EUROSPORT  2
+http://sesat.tk:8080/MikeBro/GerMaNN452/1916
+#EXTINF:-1,EUROSPORT
+http://sesat.tk:8080/MikeBro/GerMaNN452/1917
+#EXTINF:-1,DISNEY  JUNIOR
+http://sesat.tk:8080/MikeBro/GerMaNN452/1918
+#EXTINF:-1,CINEMAX  2
+http://sesat.tk:8080/MikeBro/GerMaNN452/1924
+#EXTINF:-1,AXN  WHITE
+http://sesat.tk:8080/MikeBro/GerMaNN452/1925
+#EXTINF:-1,AXN  ROMANIA
+http://sesat.tk:8080/MikeBro/GerMaNN452/1926
+#EXTINF:-1,ANTENA  STARS
+http://sesat.tk:8080/MikeBro/GerMaNN452/1927
+#EXTINF:-1,ANTENA  3 HD
+http://sesat.tk:8080/MikeBro/GerMaNN452/1928
+#EXTINF:-1,AXN BLACK
+http://sesat.tk:8080/MikeBro/GerMaNN452/1929
+#EXTINF:-1,MUSIC CHANNEL ONE1
+http://sesat.tk:8080/MikeBro/GerMaNN452/1930
 #EXTINF:-1,Happy Channel
 http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/787
 #EXTINF:-1,Happy Channel HD
