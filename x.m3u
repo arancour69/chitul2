@@ -71,12 +71,10 @@ http://www.ast.tv/stream/1/master.m3u8
 http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-© 2019 GitHub, Inc.
 #EXTINF:-1, Dorcel TV [FHD]
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1, Dorcel TV HD
 http://213.231.131.198:22666/udp/239.10.10.155:5000
-
 #EXTINF:-1, Redlight HD
 http://85.12.193.140:81/udp/239.99.17.251:1234
 #EXTINF:-1, Private TV HD (18+) [FHD]
